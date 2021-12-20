@@ -22,3 +22,5 @@ function useLocalStorage(
 
   return [value, setValue];
 }
+
+const [username, setUsername] = useLocalStorage("username", "@imarenny");
