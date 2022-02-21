@@ -1,6 +1,6 @@
 # Hooks Collection
 
-Collection of React Hooks I made during my Journey. 
+Collection of React Hooks I made during my Journey.
 
 I decided to do this repo in order to keep track of the hooks i frequently use during my react applications development. These hooks are simply pasted into organized files and not distributed as a package for a couple of reason:
 
